@@ -1,0 +1,23 @@
+@charset "utf-8";
+.container-fluid {
+}
+.container-fluid {
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light #navbarSupportedContent1 .navbar-nav.mr-auto {
+    background-color: #C0EA72;
+    color: #ED4043;
+}
+.card.col-md-4 .card-body .btn.btn-primary {
+    background-color: #E7A122;
+}
+
+
+.container-fluid {
+    background-color: #ED4043;
+}
+.container-fluid {
+    background-color: #0A3DDB;
+}
+.container-fluid {
+    background-color: #E7A122;
+}
